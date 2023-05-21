@@ -1,0 +1,12 @@
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 1, '2023-01-13', 20.50);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 1, '2023-02-27', 4.25);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 1, '2022-07-15', 7.00);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 1, '2023-07-18', 10.70);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 2, '2023-02-27', 5.70);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 2, '2022-07-15', 72.50);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 2, '2023-02-28', 32.10);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 2, '2023-02-27', 2.49);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 3, '2022-07-15', 56.99);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 3, '2023-01-14', 42.00);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 3, '2023-01-22', 119.99);
+INSERT INTO purchase(customer_id, create_date, price) VALUES( 3, '2022-07-15', 75.00);
